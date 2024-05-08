@@ -4,7 +4,7 @@
   "publisher": "kk",
   "version": "1.0.0.0",
   "brief": "",
-  "description": "",
+  "description": "my test app3",
   "privacyStatement": "",
   "EULA": "",
   "help": "",
@@ -21,6 +21,7 @@
     }
   ],
   "features": [
+    "TranslationFile",
     "NoImplicitWith"
   ],
   "resourceExposurePolicy": {
